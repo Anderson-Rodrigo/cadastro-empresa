@@ -1,4 +1,4 @@
-package br.edu.unoescsmo.bootweb;
+package br.edu.unoescsmo.cadastroempresa;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class BootWebApplicationTests {
+public class CadastroEmpresaApplicationTests {
 
 	@Test
 	public void contextLoads() {
